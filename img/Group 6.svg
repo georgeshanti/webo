@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="444px" height="288px" viewBox="0 0 444 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+    <style>
+        @font-face {
+            font-family: 'HK Grotesk';
+            font-weight: 600;
+            font-style: normal;
+            src: url("/fonts/HKGrotesk-Medium.otf") format("opentype");
+        }
+    </style>
+    </defs>
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>3BF62AB0-45A3-4B7A-8266-B4031430BF2A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="432" height="104" rx="6"></rect>
+        <filter x="-2.3%" y="-7.7%" width="104.6%" height="119.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104102928 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="432" height="104" rx="6"></rect>
+        <filter x="-2.3%" y="-7.7%" width="104.6%" height="119.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104102928 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-183.000000, -3027.000000)">
+            <g id="Group-6" transform="translate(189.000000, 3027.000000)">
+                <rect id="Rectangle-Copy-3" fill="#171717" opacity="0.800000012" x="76.0042017" y="0" width="310.991597" height="288" rx="8"></rect>
+                <g id="goals" transform="translate(0.000000, 32.000000)">
+                    <g id="Group-Copy-2">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#27292D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M110.769231,56.2405063 L417.923077,56.2405063 C419.579931,56.2405063 420.923077,57.5836521 420.923077,59.2405063 C420.923077,60.8973606 419.579931,62.2405063 417.923077,62.2405063 L110.769231,62.2405063 L110.769231,62.2405063 L110.769231,56.2405063 Z" id="Rectangle-" fill="#5E2BBC"></path>
+                        <path d="M11.0769231,56.2405063 L110.538462,56.2405063 C112.195316,56.2405063 113.538462,57.5836521 113.538462,59.2405063 C113.538462,60.8973606 112.195316,62.2405063 110.538462,62.2405063 L11.0769231,62.2405063 L11.0769231,62.2405063 L11.0769231,56.2405063 Z" id="Rectangle-" fill="#6648FF" transform="translate(62.307692, 59.240506) scale(-1, 1) translate(-62.307692, -59.240506) "></path>
+                        <text id="Retirement-fund" font-family="HKGrotesk-Medium, HK Grotesk" font-size="18" font-weight="400" fill="#FFFFFF">
+                            <tspan x="11.0769231" y="28.6962025">Retirement fund</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.100000001" x="318.461538" y="13.164557" width="102.461538" height="26.3291139" rx="2"></rect>
+                        <text id="+-ADD-TO-GOAL" font-family="HKGrotesk-Bold, HK Grotesk" font-size="12" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="326.242615" y="30.6003004">+ ADD TO GOAL</tspan>
+                        </text>
+                        <text id="TARGET-:-₹36,00,000" font-family="HKGrotesk-Bold, HK Grotesk" font-size="10" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="320.633077" y="81.9873418">TARGET :</tspan>
+                            <tspan x="364.373077" y="81.9873418" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500"> ₹</tspan>
+                            <tspan x="373.703077" y="81.9873418">36,00,000 </tspan>
+                        </text>
+                        <text id="3-years-to-go!-Hang" font-family="HKGrotesk-SemiBold, HK Grotesk" font-size="14" font-weight="500" fill="#FFFFFF">
+                            <tspan x="11.0769231" y="85.1455696">3 years to go! Hang in there.</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-3" transform="translate(0.000000, 120.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#27292D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <path d="M110.769231,56.2405063 L417.923077,56.2405063 C419.579931,56.2405063 420.923077,57.5836521 420.923077,59.2405063 C420.923077,60.8973606 419.579931,62.2405063 417.923077,62.2405063 L110.769231,62.2405063 L110.769231,62.2405063 L110.769231,56.2405063 Z" id="Rectangle-" fill="#F77328"></path>
+                        <path d="M11.0769231,56.2405063 L388.846154,56.2405063 C390.503008,56.2405063 391.846154,57.5836521 391.846154,59.2405063 C391.846154,60.8973606 390.503008,62.2405063 388.846154,62.2405063 L11.0769231,62.2405063 L11.0769231,62.2405063 L11.0769231,56.2405063 Z" id="Rectangle-" fill="#FF9F67" transform="translate(201.461538, 59.240506) scale(-1, 1) translate(-201.461538, -59.240506) "></path>
+                        <text id="Amazon-Echo-Plus" font-family="HKGrotesk-Medium, HK Grotesk" font-size="18" font-weight="400" fill="#FFFFFF">
+                            <tspan x="11.0769231" y="28.6962025">Amazon Echo Plus</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.100000001" x="318.461538" y="13.164557" width="102.461538" height="26.3291139" rx="2"></rect>
+                        <text id="+-ADD-TO-GOAL" font-family="HKGrotesk-Bold, HK Grotesk" font-size="12" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="326.242615" y="30.6003004">+ ADD TO GOAL</tspan>
+                        </text>
+                        <text id="TARGET-:-₹8500" font-family="HKGrotesk-Bold, HK Grotesk" font-size="10" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="344.413077" y="81.9873418">TARGET :</tspan>
+                            <tspan x="388.153077" y="81.9873418" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500"> ₹</tspan>
+                            <tspan x="397.483077" y="81.9873418">8500 </tspan>
+                        </text>
+                        <text id="2-months-to-go!-Almo" font-family="HKGrotesk-SemiBold, HK Grotesk" font-size="14" font-weight="500" fill="#FFFFFF">
+                            <tspan x="11.0769231" y="85.1455696">2 months to go! Almost done.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

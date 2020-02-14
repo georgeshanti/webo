@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webo/static/css/main.43eb07e3.chunk.css",
+    "main.js": "/webo/static/js/main.0f847e13.chunk.js",
+    "main.js.map": "/webo/static/js/main.0f847e13.chunk.js.map",
+    "runtime-main.js": "/webo/static/js/runtime-main.ea93803d.js",
+    "runtime-main.js.map": "/webo/static/js/runtime-main.ea93803d.js.map",
+    "static/js/2.221716fc.chunk.js": "/webo/static/js/2.221716fc.chunk.js",
+    "static/js/2.221716fc.chunk.js.map": "/webo/static/js/2.221716fc.chunk.js.map",
+    "index.html": "/webo/index.html",
+    "precache-manifest.cd7e54e755d276661868244efe1bba9a.js": "/webo/precache-manifest.cd7e54e755d276661868244efe1bba9a.js",
+    "service-worker.js": "/webo/service-worker.js",
+    "static/css/main.43eb07e3.chunk.css.map": "/webo/static/css/main.43eb07e3.chunk.css.map",
+    "static/js/2.221716fc.chunk.js.LICENSE": "/webo/static/js/2.221716fc.chunk.js.LICENSE",
+    "static/media/logo.svg": "/webo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea93803d.js",
+    "static/js/2.221716fc.chunk.js",
+    "static/css/main.43eb07e3.chunk.css",
+    "static/js/main.0f847e13.chunk.js"
+  ]
+}

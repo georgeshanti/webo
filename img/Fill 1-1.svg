@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="585px" viewBox="0 0 1920 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>14EB0AE7-FD37-4A1B-81AD-154BE92EFC4F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="58.5262299%" y1="24.3611729%" x2="58.5262299%" y2="93.67472%" id="linearGradient-1">
+            <stop stop-color="#F6FAFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" fill="url(#linearGradient-1)">
+            <path d="M0,585 C3.20831939,585 75.225278,495.827378 122.490094,324.022153 C169.754909,152.216927 435.384231,71.1656049 607.954939,141.739685 C780.525647,212.313765 1058.34179,290.139767 1250.71389,171.278206 C1443.08599,52.416646 1536.10674,-21.6459141 1920,5.6651163 L1920,585 L0,585 Z" id="Fill-1-1" transform="translate(960.000000, 292.500000) scale(-1, -1) translate(-960.000000, -292.500000) "></path>
+        </g>
+    </g>
+</svg>

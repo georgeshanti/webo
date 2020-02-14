@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="566px" viewBox="0 0 1920 566" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>EEA78321-4AFC-4B33-BD13-31432CEC5D3F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="58.5262299%" y1="24.3611729%" x2="58.5262299%" y2="93.67472%" id="linearGradient-1">
+            <stop stop-color="#F6FAFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(0.000000, -4773.000000)" fill="url(#linearGradient-1)">
+            <path d="M0,5338.1753 C3.20831939,5338.1753 122.490094,5237.09702 122.490094,5086.04157 C122.490094,4934.98611 435.384231,4841.75392 607.954939,4909.93636 C780.525647,4978.1188 1058.34179,5053.3074 1250.71389,4938.47386 C1443.08599,4823.64033 1536.10674,4752.08763 1920,4778.47313 L1920,5338.1753 L0,5338.1753 Z" id="Fill-1-2" transform="translate(960.000000, 5055.587648) scale(-1, 1) translate(-960.000000, -5055.587648) "></path>
+        </g>
+    </g>
+</svg>
